@@ -1,0 +1,15 @@
+D:\dsa-in-csharp\ContainerWithMostWater\bin\Debug\net10.0\ContainerWithMostWater.exe
+D:\dsa-in-csharp\ContainerWithMostWater\bin\Debug\net10.0\ContainerWithMostWater.deps.json
+D:\dsa-in-csharp\ContainerWithMostWater\bin\Debug\net10.0\ContainerWithMostWater.runtimeconfig.json
+D:\dsa-in-csharp\ContainerWithMostWater\bin\Debug\net10.0\ContainerWithMostWater.dll
+D:\dsa-in-csharp\ContainerWithMostWater\bin\Debug\net10.0\ContainerWithMostWater.pdb
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\ContainerWithMostWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\ContainerWithMostWater.AssemblyInfoInputs.cache
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\ContainerWithMostWater.AssemblyInfo.cs
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\ContainerWithMostWater.sourcelink.json
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\ContainerWithMostWater.dll
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\refint\ContainerWithMostWater.dll
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\ContainerWithMostWater.pdb
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\ContainerWithMostWater.genruntimeconfig.cache
+D:\dsa-in-csharp\ContainerWithMostWater\obj\Debug\net10.0\ref\ContainerWithMostWater.dll
